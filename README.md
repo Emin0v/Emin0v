@@ -10,11 +10,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mahammad Eminov </h1>
 <h3 align="center">Java Developer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mahammademinov/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_muhammad_faizan_haidar" height="30" width="40" /></a>  
-<a href="https://github.com/Emin0v" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="lin_muhammad_faizan_haidar" height="30" width="40" /></a>  
-<a href="https://mahammademinov.medium.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="lin_muhammad_faizan_haidar" height="30" width="40" /></a>  
-<a href="https://wa.me/0775027313" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="lin_muhammad_faizan_haidar" height="30" width="40" /></a>  
-<a href="https://t.me/Emin0v" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="insta_muhammad_faizan_haidar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahammademinov/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="mahammademinov" height="30" width="40" /></a>  
+<a href="https://github.com/Emin0v" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="mahammademinov" height="30" width="40" /></a>  
+<a href="https://mahammademinov.medium.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="mahammademinov" height="30" width="40" /></a>  
+<a href="https://wa.me/0775027313" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="mahammademinov" height="30" width="40" /></a>  
+<a href="https://t.me/Emin0v" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="mahammademinov" height="30" width="40" /></a>
 </p>
 
 <p align="center">

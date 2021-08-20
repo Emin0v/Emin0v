@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="https://assets.gocoderz.xyz/site/wp-content/uploads/2017/02/shutterstock_239157115-460x320.jpg" height="200"/>
-</p>
-<br>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Emin0v&color=brightgreen" alt="watching_count" />
  </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mahammad Eminov </h1>
+<h1 align="center" >Mahammad Eminov</h1>
 <h3 align="center">Java Developer </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mahammademinov/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="mahammademinov" height="30" width="40" /></a>  

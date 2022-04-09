@@ -5,7 +5,7 @@
 <h1 align="center" >Mahammad Eminov</h1>
 <h3 align="center">Java Developer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mahammademinov/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="mahammademinov" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/mahammademinov/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="mahammademinov" height="30" width="40" /></a>  
 <a href="https://github.com/Emin0v" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="mahammademinov" height="30" width="40" /></a>  
 <a href="https://mahammademinov.medium.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="mahammademinov" height="30" width="40" /></a>  
 <a href="https://wa.me/0775027313" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="mahammademinov" height="30" width="40" /></a>  

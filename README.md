@@ -1,7 +1,13 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Mahammad+Eminov+%3C3;I'+am+a+Software+Engineer;Welcome+to+my+profile+!">
+</p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 <p align="left"> 
  </p>
-<hr>
 <h1 align="center" >Mahammad Eminov</h1>
 <h3 align="center">Java Developer </h3>
 <p align="center">
@@ -20,18 +26,19 @@
 
 <hr>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+***About me ....***
 
 ✔ I’m currently learning about **Vue.js, Microservice architecture **<br>
 ✔ I’m currently studying Information Security at Azerbaijan State Oil and Industry University (ASOIU)<br>
 ✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
 
+## 
+<a href="https://github.com/Emin0v/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sudip-mondal-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 ## 🛠️ My Skills
 
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools & technologies I use...***
+***Tools & technologies I use...***
 
 <p>
 &emsp;
@@ -111,7 +118,7 @@
 
 <hr>
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<i><b>Git Activeness</b></i>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emin0v&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Emin0v&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
@@ -122,6 +129,7 @@
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Emin0v&theme=juicyfresh&no-bg=true" />
 
+<p align="center"><img src="https://profile-counter.glitch.me/%7Blia0wang%7D/count.svg" alt="visitor badge" width="30%"></p>
 
 -----
 

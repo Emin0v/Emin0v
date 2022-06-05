@@ -33,8 +33,6 @@
 ✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
 
-## 
-<a href="https://github.com/Emin0v/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sudip-mondal-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ## 🛠️ My Skills
 
@@ -133,4 +131,4 @@
 
 -----
 
-Last Edited on: 20/08/2021
+Last Edited on: 06/06/2022

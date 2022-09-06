@@ -1,14 +1,7 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Mahammad+Eminov;I'+am+a+Software+Engineer;Welcome+to+my+profile+!">
-</p>
-
+<h1 align="center" >Mahammad Eminov</h1>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
-<p align="left"> 
- </p>
-<h1 align="center" >Mahammad Eminov</h1>
 <h3 align="center">Java Developer </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mahammademinov/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="mahammademinov" height="30" width="40" /></a>  

@@ -6,6 +6,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mahammademinov/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="mahammademinov" height="30" width="40" /></a>  
 <a href="https://github.com/Emin0v" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="mahammademinov" height="30" width="40" /></a>  
+<a href="https://gitlab.com/mahammademinov" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="mahammademinov" height="30" width="40" /></a>  
 <a href="https://mahammademinov.medium.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="mahammademinov" height="30" width="40" /></a>  
 <a href="https://wa.me/0775027313" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="mahammademinov" height="30" width="40" /></a>  
 <a href="https://t.me/Emin0v" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="mahammademinov" height="30" width="40" /></a>
@@ -22,9 +23,9 @@
 ***About me ....***
 
 ✔ I’m currently learning about **Vue.js, Microservice architecture **<br>
-✔ I’m currently studying Information Security at Azerbaijan State Oil and Industry University (ASOIU)<br>
+✔ I studied Information Security at Azerbaijan State Oil and Industry University (ASOIU)<br>
 ✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it is stored in my brain* 😎<br><br><br><br>
 
 
 ### 🔥 Streak Stats
